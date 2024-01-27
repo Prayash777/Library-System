@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Otter Library System</string>
+    <string name="create">Create Account</string>
+    <string name="hold">Place Hold</string>
+    <string name="manage">Manage System</string>
+    <string name="OK">OK</string>
+    <string name="login">Login</string>
+    <string name="Yes">YES</string>
+    <string name="Computer">Computer Science</string>
+    <string name="Fiction">Fiction</string>
+    <string name="Memoir">Memoir</string>
+    <string name="No">No</string>
+    <string name="confirm">Confirm</string>
+    <string name="Menu">Menu</string>
+</resources>
